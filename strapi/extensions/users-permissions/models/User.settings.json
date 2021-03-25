@@ -55,14 +55,6 @@
       "via": "users",
       "plugin": "users-permissions",
       "configurable": false
-    },
-    "bio": {
-      "model": "bio",
-      "via": "author"
-    },
-    "joinedEvents": {
-      "collection": "event",
-      "via": "friends"
     }
   }
 }

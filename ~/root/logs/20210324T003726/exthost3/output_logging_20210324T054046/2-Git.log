@@ -1,0 +1,94 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/sona/workspace/meshizen
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/newui refs/remotes/feature/newui
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: /home/sona/workspace/payroll
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/sona/workspace/payroll/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/newui refs/remotes/feature/newui
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/newui refs/remotes/feature/newui
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:package-lock.json
+> git ls-tree -l HEAD -- /home/sona/workspace/meshizen/package-lock.json
+> git show --textconv HEAD:modules/pto/client/controllers/employee.leaves.client.controller.js
+> git ls-tree -l HEAD -- /home/sona/workspace/meshizen/modules/pto/client/controllers/employee.leaves.client.controller.js
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:modules/pto/client/controllers/pto.tabSwitch.client.controller.js
+> git ls-tree -l HEAD -- /home/sona/workspace/meshizen/modules/pto/client/controllers/pto.tabSwitch.client.controller.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/newui refs/remotes/feature/newui
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/sona/workspace/meshizen/modules/pto/client/controllers/pto.tabSwitch.client.controller.js
+> git show --textconv HEAD:modules/pto/client/controllers/pto.tabSwitch.client.controller.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/newui refs/remotes/feature/newui
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/newui refs/remotes/feature/newui
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-tree -l HEAD -- /home/sona/workspace/meshizen/modules/pto/client/controllers/pto.tabSwitch.client.controller.js
+> git config --get commit.template
+> git show --textconv HEAD:modules/pto/client/controllers/pto.tabSwitch.client.controller.js
+> git ls-tree -l HEAD -- /home/sona/workspace/meshizen/modules/pto/client/controllers/pto.tabSwitch.client.controller.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/newui refs/remotes/feature/newui
+> git ls-tree -l HEAD -- /home/sona/workspace/meshizen/modules/pto/client/controllers/pto.tabSwitch.client.controller.js
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:modules/pto/client/controllers/pto.tabSwitch.client.controller.js
+> git ls-tree -l HEAD -- /home/sona/workspace/meshizen/modules/pto/client/controllers/pto.tabSwitch.client.controller.js
+> git ls-tree -l HEAD -- /home/sona/workspace/meshizen/modules/pto/client/controllers/pto.tabSwitch.client.controller.js
+> git ls-tree -l HEAD -- /home/sona/workspace/meshizen/modules/pto/client/controllers/pto.tabSwitch.client.controller.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/newui refs/remotes/feature/newui
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/newui refs/remotes/feature/newui
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/newui refs/remotes/feature/newui
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
